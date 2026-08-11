@@ -2,7 +2,7 @@
 # from pydantic import BaseModel
 # from google import genai
 # from google.genai.errors import APIError
-
+ 
 # # --- 1. CONFIGURATION ---
 # # IMPORTANT: FastAPI runs on port 8000 by default. 
 # # You must set your GEMINI_API_KEY environment variable.
