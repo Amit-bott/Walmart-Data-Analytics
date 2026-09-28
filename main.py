@@ -69,3 +69,7 @@ def get_summary(request_data: SummaryRequest):
     return {"store_id": request_data.store_id, "summary": summary_text}
 
 # To run: uvicorn main:app --reload
+
+
+
+
